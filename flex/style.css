@@ -1,0 +1,41 @@
+.container {
+    border: 2px solid black;
+    display: flex;
+    margin: 15px;
+}
+
+
+.bloc {
+    text-align: center;
+    width: auto;
+    margin: 10px;
+}
+
+.bloc img {
+    width: 200px;
+}
+
+.droite {
+    justify-content: flex-end;
+}
+
+.gauche {
+    justify-content: flex-start;
+}
+
+.centre {
+    justify-content: center;
+}
+
+.espace-entre {
+    justify-content: space-between;
+}
+
+.egal {
+    justify-content: space-evenly;
+}
+
+.autour {
+    justify-content: space-around;
+}
+
