@@ -215,6 +215,17 @@ body {
     padding: 20px 0px 15px 20px;
 }
 
+.comment-1 {
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    align-items: center;
+    margin: 5px;
+    width: 100%;
+    padding: 20px 0px 15px 20px;
+}
+
 .talk {
     margin: auto;
     margin-bottom: 100px;
